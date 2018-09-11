@@ -4,19 +4,6 @@
   font-family: times;
 }
 
-body {
-  background: #fff;
-}
-
-nav, article, aside, footer section {
-  margin: 0 auto;
-  width: 900px;
-}
-
-nav {
-  margin-top: 25px;
-}
-
 #logo {
   float: left;
   padding-bottom: 25px;
@@ -164,7 +151,4 @@ footer section p{
   line-height: 1.5em;
   text-align: center;
   color: #aaa;
-}
-
-
 }
